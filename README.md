@@ -1,2 +1,2 @@
-# machine-learning
-Repo to store my Machine Learning practice
+# Machine Learning
+Repo to store my various attempts at building machine learning models.
